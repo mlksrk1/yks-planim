@@ -1,0 +1,12 @@
+{
+  "name": "YKS Planım",
+  "short_name": "YKS Planım",
+  "description": "Kişisel TYT ve AYT çalışma programı",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f0e7",
+  "theme_color": "#173f34",
+  "lang": "tr",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
