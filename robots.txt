@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mlksrk1.github.io/rota-yks/sitemap.xml
