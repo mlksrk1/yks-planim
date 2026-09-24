@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mlksrk1.github.io/rota-yks/sitemap.xml
+Sitemap: https://mlksrk1.github.io/yks-planim/sitemap.xml
